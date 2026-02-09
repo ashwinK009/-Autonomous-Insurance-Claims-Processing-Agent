@@ -38,7 +38,7 @@ The output JSON will be printed in the console.
 
 ---
 
-## How it works (high level)
+## How it works 
 
 - PDF form fields are read directly from the ACORD document (AcroForm fields)
 - Extracted values are mapped into Java objects
