@@ -57,7 +57,7 @@ The output JSON will be printed in the console.
 
 ## Project structure
 
-AICP-Agent
+```AICP-Agent
 ├── lib/ // External JAR files
 ├── sample-files/ // Sample filled ACORD FNOL PDFs
 ├── src/
@@ -66,7 +66,7 @@ AICP-Agent
 │ ├── model
 │ ├── validation
 │ └── routing
-└── README.md
+└── README.md ```
 
 ---
 
