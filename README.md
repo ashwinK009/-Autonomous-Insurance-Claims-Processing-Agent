@@ -12,12 +12,13 @@ The goal of this project is to focus on document parsing and decision logic, wit
 1. Clone the repository.
 2. Open the project in Eclipse or STS.
 3. Add all JAR files from the `lib` folder to the build path. I'll explain it below:
-
-```   a) Right-click on the project → **Build Path** → **Configure Build Path** ```
-```   b) Go to the **Libraries** tab ```
-```   c) Click on Classpath first & then click on **Add JARs** ```
-```   d) Select all JAR files from the `lib` folder ```
-```   e) Click **Apply and Close** ```
+   ```
+      a) Right-click on the project → **Build Path** → **Configure Build Path** 
+      b) Go to the **Libraries** tab 
+      c) Click on Classpath first & then click on **Add JARs** 
+      d) Select all JAR files from the `lib` folder 
+      e) Click **Apply and Close**
+   ```
    
 4. Place a filled ACORD FNOL PDF inside the `sample-files` directory.
 5. Update the file path in `Main.java` if needed.
@@ -66,8 +67,8 @@ AICP-Agent
 │ ├── model
 │ ├── validation
 │ └── routing
-└── README.md ```
-
+└── README.md 
+```
 ---
 
 ## Notes
